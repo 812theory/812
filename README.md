@@ -1,34 +1,32 @@
 # 8:12 Theory
 
-An 8-episode limited series. Bangkok setting.
+**8 x 60' Limited Series | Created by Jay Wright**
 
-> *"The thing about 8:12 is that it's the moment right after the alarm goes off — when you're still deciding who you are today."*
+Bangkok. A structural engineer who solves impossible building cases with terrifying precision. A city that bends around him in ways he can't see. Every morning at 8:12, for exactly one second, the entire city goes silent. He's the only one who notices.
 
----
+I wrote this in heat. Sent it to two producers. They said: *"Cut it, cut it, cut it — but don't lose it."* They were right. The first version was 500 pages of the most prosey thing I've ever written. This is v2. Leaner. Still weird. Still mine.
 
-## Structure
-
-```
-/episodes       — Episode scripts, notes, drafts
-/v2             — Current working version of pitch materials
-```
-
-## Episodes
-
-| # | Title | Status |
-|---|-------|--------|
-| E1 | TBD | Draft |
-| E2 | TBD | Outline |
-| E3 | TBD | Outline |
-| E4 | TBD | Draft |
-| E5–E8 | TBD | Planned |
-
-## About
-
-This repository is the open-source home of 8:12 Theory — scripts, pitch materials, research, and production notes, organized for transparency and collaboration.
-
-Every document in here has been written in heat and edited with intention.
+I'm releasing everything. Not because it's perfect. Because I did the thing, and doing the thing is its own answer.
 
 ---
 
-*Released publicly because the act of making is its own answer.*
+## Two paths
+
+**Read the show → [`/the-show`](./the-show)**
+- Pitch bible (v2)
+- Episode map
+- Beat sheets for all 8 episodes
+- Every episode script
+
+**See how it got built → [`/the-making`](./the-making)**
+- Actor profiles and casting logic
+- Marketing strategy
+- The chime arc (how a 7-11 speaker tells the whole story)
+- The Unit arc (why the dog never desaturates)
+- And more. Check [`whats-next.md`](./whats-next.md).
+
+---
+
+Questions, thoughts, or you just want to tell me the chime arc broke you:
+
+**Jay Wright** — open an issue, or find me at [wearecleardigital@gmail.com](mailto:wearecleardigital@gmail.com).
