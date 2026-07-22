@@ -24,7 +24,13 @@ The sequence that shows where this came from.
 
 The craft documents. Reference material for how the show's architecture works.
 
-**[Thirteen Rules](./thirteen-rules.md)** — The production DNA. Pin this.
+**The Rules — read in sequence:**
+
+**[Ten Rules](./ten-rules.md)** — Where it started. Written before E1 was finished. Sound and Camera shared a single rule. The camera was a narrator.
+
+**[Twelve Rules](./twelve-rules.md)** — After E3. Sound got its own manifesto. Camera became a character. Dialogue was formally demoted to third. The found family got a rule: love through function, never named. The showrunner note appeared for the first time.
+
+**[Thirteen Rules](./thirteen-rules.md)** — After E5-E7. The camera got a full eight-episode arc. Rule XIII arrived: the body is ahead. The production DNA. Pin this one.
 
 **[Chime Grammar](./chime-grammar.md)** — The 7-11 door chime across all eight episodes. Locked.
 
