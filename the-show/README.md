@@ -16,7 +16,11 @@ Episode 1 — original layer — The v1. Direction, camera grammar, production i
 
 ---
 
-Episode 2: "Sathorn" — The Sathorn Unique Tower case. Something clicks near Met that Chloe thinks is her skill. Steve orders two drinks. One stays untouched.
+**[Episode 2: "Sathorn"](./e2.md)** — The Sathorn Unique Tower case. Something clicks near Met that Chloe thinks is her skill. Steve orders two drinks. One stays untouched.
+
+Episode 2 — dialogue + standard direction only. Prosey production intent removed. Grey markers show where it was stripped.
+
+---
 
 Episode 3: "Asok" — The BTS interchange that makes no sense but works. The bottle breaks. Finds an impossible balance. The universe won't let him off the hook.
 
