@@ -4,6 +4,8 @@
 
 **Don't read this if** you're looking for a polished pitch package. This is everything, including the mess.
 
+**If you want to option or produce this** — [wearecleardigital@gmail.com](mailto:wearecleardigital@gmail.com) is faster than GitHub.
+
 ---
 
 A risk auditor walks the same route through Bangkok every morning at 8:12 AM. Traffic stops. Crowds part. He doesn't notice. He's been alive for centuries and his brain built a wall around everything it couldn't process.
