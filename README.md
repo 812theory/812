@@ -50,7 +50,7 @@ Two paths. Pick one.
 
 The repo is new. The show isn't.
 
-**2019** — "I Am Not a God" — a short story posted online. The same man, the same bungalow, the same bending of reality. No genre. No architecture. Just the character, before anyone knew what he was. The show starts here.
+**2019** — "I Am Not a God" — a short story posted to r/HFY. The same man, the same bungalow, the same bending of reality. No genre. No architecture. Just the character, before anyone knew what he was. The show starts here.
 
 **February 28, 2026** — Concept rebuild. Started as a film. Became an 8-episode limited series in a single session.
 
