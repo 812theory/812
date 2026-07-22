@@ -38,6 +38,8 @@ The craft documents. Reference material for how the show's architecture works.
 
 **[Character Bible](./characters.md)** — Who everyone is and why.
 
+**[Visual Bible](./visual-bible.md)** — Written during E1. The perceptual language: camera modes, color arc, the Static's production design, the head-tilt spec. An artifact of where the thinking was — the architecture kept moving after this.
+
 **[Production Notes](./production.md)** — Bangkok, the soundtrack, the cast frequency.
 
 **[Audience Analysis](./audience-analysis.md)** — The three types of people watching and what each one needs.
