@@ -36,7 +36,33 @@ Open an issue. Send an email. Tell me the chime arc broke you.
 
 ---
 
-## What's here
+## How to read this repo
+
+Two paths. Pick one.
+
+**The clean path** — You want the show, not the build. Start with the [bible](./the-show/bible.md), then [Episode 1](./the-show/e1.md). The [background docs](./background) are reference if you want them. Skip [/the-making](./the-making) entirely on first read.
+
+**The messy path** — You want to see how concept becomes architecture becomes scripts. Start with the [logline](./the-making/logline.md) — the oldest artifact, written before anything else existed. Then [the stupid basis](./the-making/the-stupid-basis.md). Then the [bible](./the-show/bible.md). Then the [rules in sequence](./background) — Ten → Twelve → Thirteen. Then the episodes. The mess is the point.
+
+---
+
+## When this was built
+
+The repo is new. The show isn't.
+
+**2019** — ["I Am Not a God"](https://www.reddit.com/r/HFY/comments/egluod/i_am_not_a_god_oc/) posted to r/HFY. The same man, the same bungalow, the same bending of reality. No genre. No architecture. Just the character, before anyone knew what he was. The show starts here.
+
+**February 28, 2026** — Concept rebuild. Started as a film. Became an 8-episode limited series in a single session.
+
+**March 1, 2026** — [Chime degradation grammar](./background/chime-grammar.md) locked. Character bible. Audience analysis. Unit production notes. First cold read feedback on E5.
+
+**March 2, 2026** — Bible beats v2 (rebuilt after E1-E5 were written and the scaffolding didn't fully hold). Grumpy exec cold read. Watchouts.
+
+**March–April 2026** — E1 through E8 written. Thirteen rules updated with the full camera arc. E6-E7 architecture locked. E5 v5 final.
+
+---
+
+## Changelog
 
 This repo is being built live. Things get added as they get cleaned up.
 
@@ -48,17 +74,5 @@ This repo is being built live. Things get added as they get cleaned up.
 - [/background/unit-notes.md](./background/unit-notes.md): Unit as character, not prop — with header on how the scene evolved from E2 to E4
 - [/background/visual-bible.md](./background/visual-bible.md): Camera modes, color arc, the Static's production design — framed as artifact, written during E1
 - [/the-making/somchai.md](./the-making/somchai.md): The Somchai retrofit — how a food stall vendor becomes E4's most devastating beat
-
----
-
-## When this was built
-
-The repo is new. The show isn't.
-
-**February 28, 2026** — Concept rebuild. Started as a film. Became an 8-episode limited series in a single session.
-
-**March 1, 2026** — [Chime degradation grammar](./background/chime-grammar.md) locked. Character bible. Audience analysis. Unit production notes. First cold read feedback on E5.
-
-**March 2, 2026** — Bible beats v2 (rebuilt after E1-E5 were written and the scaffolding didn't fully hold). Grumpy exec cold read. Watchouts.
-
-**March–April 2026** — E1 through E8 written. Thirteen rules updated with the full camera arc. E6-E7 architecture locked. E5 v5 final.
+- [/the-making/logline.md](./the-making/logline.md): The oldest artifact — the logline that held while everything else was built around it
+- Root README restructured: two reading paths, timeline, changelog separated
