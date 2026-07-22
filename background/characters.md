@@ -68,8 +68,6 @@ Australian systems consultant. Twin sister dying of cancer. Arrived because she 
 
 **Chloe sees Met and really cares.** Not romantically. Not professionally. She sees the whole broken machine and doesn't flinch. For Met, who has been unseen for centuries, this is the thing that cracks through where data and evidence couldn't.
 
-**Inspiration:** Chloe is inspired by D (Deanna Gowrie) — someone who showed love by understanding, who researched Jay's diagnosis the day she learned about it. The "love through comprehension" wiring is the emotional core of Chloe's character.
-
 ---
 
 ## KITTY — The Twin (Chloe's)
