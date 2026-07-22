@@ -1,6 +1,6 @@
 # The Stupid Basis
 
-Years ago — before any of this existed — I posted a silly story on Reddit. HFY subreddit. Has nothing to do with anything. Except it has everything to do with everything.
+Years ago — before any of this existed — I posted a silly story online. Has nothing to do with anything. Except it has everything to do with everything.
 
 Same man. Same bungalow. A city that bends around him and he doesn't know why. No genre. No architecture. No thirteen rules. Just the character, before anyone including me knew what he was.
 
