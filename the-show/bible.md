@@ -2,7 +2,6 @@
 
 **Created by Jay Wright**
 **8 x 60' Limited Series | Supernatural Grief Thriller**
-**Target: Apple TV+**
 
 ---
 
@@ -30,7 +29,7 @@ A structural engineer in Bangkok solved impossible building cases with terrifyin
 
 **The Sixth Sense** — the structural promise. Every detail recontextualizes. The rewatch is built into the architecture. The Sixth Sense made audiences rewatch to see what they missed. 8:12 makes audiences rewatch to see what they *preferred* — and that's darker, because the thing the rewatch reveals isn't a hidden plot point. It's a hidden preference. The audience preferred the clean hallway. That preference is the disease.
 
-**The pitch sentence:** House in Bangkok, built like The Sixth Sense, in the emotional register of Severance.
+House in Bangkok, built like The Sixth Sense, in the emotional register of Severance.
 
 8:12 THEORY combines the accessibility of a procedural engine with the rewatch architecture of a structural revelation and the emotional weight of prestige slow-burn. What none of those shows attempted: making the CITY the diagnostic instrument. Bangkok isn't a backdrop. Bangkok has vitals. When the 7-11 chime changes, that's a blood pressure reading.
 
