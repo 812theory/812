@@ -79,3 +79,4 @@ This repo is being built live. Things get added as they get cleaned up.
 - [/the-making/v1](./the-making/v1): V1 folder created — [why-i-wrote-it-this-way.md](./the-making/v1/why-i-wrote-it-this-way.md) + [Episode 1 prosey script](./the-making/v1/e1.md)
 - [/the-making/creator-bio.md](./the-making/creator-bio.md): Creator bio — multiple versions, credentials corrected
 - [/the-making/v1/pitch-bible.md](./the-making/v1/pitch-bible.md): V1 pitch bible — episode map stripped, E5 scene kept, credentials corrected. The doc that got "unpitchable." Links to [v2 bible](./the-show/bible.md).
+- [/the-making/v1/e2.md](./the-making/v1/e2.md): E2 "Sathorn" v1 — three parts combined. The episode where movie format became show, and the Ten Rules became a system to write inside instead of toward.
