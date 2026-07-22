@@ -45,6 +45,7 @@ This repo is being built live. Things get added as they get cleaned up.
 - [/background](./background): Ten → Twelve → Thirteen rules progression with evolution headers, character bible, [chime grammar](./background/chime-grammar.md), production notes, audience analysis, bible beats v1 + v2
 - [/the-making](./the-making): The origin story (the Reddit post that started it)
 - Episode 2: "Sathorn"
+- [/background/unit-notes.md](./background/unit-notes.md): Unit as character, not prop — with header on how the scene evolved from E2 to E4
 
 ---
 

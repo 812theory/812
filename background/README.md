@@ -32,6 +32,8 @@ The craft documents. Reference material for how the show's architecture works.
 
 **[Thirteen Rules](./thirteen-rules.md)** — After E5-E7. The camera got a full eight-episode arc. Rule XIII arrived: the body is ahead. The production DNA. Pin this one.
 
+**[Unit Notes](./unit-notes.md)** — Unit as character, not prop. Unit-cam spec. The E2 seed and the E4 payoff. How a dog becomes the show's diagnostic instrument and its love letter to Bangkok.
+
 **[Chime Grammar](./chime-grammar.md)** — The 7-11 door chime across all eight episodes. Locked.
 
 **[Character Bible](./characters.md)** — Who everyone is and why.
