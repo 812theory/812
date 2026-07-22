@@ -5,3 +5,31 @@ Everything in here is working material — documents built iteratively across th
 Some of it shaped the scripts directly. Some of it was overwritten, contradicted, or made irrelevant by what the scripts became. The show that exists on the page is the source of truth. These documents are the thinking that got it there.
 
 Read them as process, not product.
+
+---
+
+## Lane 1 — How it started
+
+The sequence that shows where this came from.
+
+**[I Am Not a God](../the-making/the-stupid-basis.md)** — The origin. Written years before 8:12 Theory existed. Same man, same city, same bending of reality. No genre. No architecture. Just the character, before anyone knew what he was.
+
+**[Bible Beats v1](./bible-beats-v1.md)** — The original scaffolding. Written before any scripts existed. The engine, the world rules, the eight-episode arc — all of it planned, none of it tested.
+
+**[Bible Beats v2](./bible-beats-v2.md)** — The rebuild. E1-E5 were written. The scaffolding held in some places and the scripts went further in others. Episode 5 was supposed to be "Shear Wall" — Met trying to close the Noi investigation with math. It became "555." Read v1, then v2, and the gap between them is where the show became itself.
+
+---
+
+## Lane 2 — How it was built
+
+The craft documents. Reference material for how the show's architecture works.
+
+**[Thirteen Rules](./thirteen-rules.md)** — The production DNA. Pin this.
+
+**[Chime Grammar](./chime-grammar.md)** — The 7-11 door chime across all eight episodes. Locked.
+
+**[Character Bible](./characters.md)** — Who everyone is and why.
+
+**[Production Notes](./production.md)** — Bangkok, the soundtrack, the cast frequency.
+
+**[Audience Analysis](./audience-analysis.md)** — The three types of people watching and what each one needs.
