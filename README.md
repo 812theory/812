@@ -47,6 +47,7 @@ This repo is being built live. Things get added as they get cleaned up.
 - Episode 2: "Sathorn"
 - [/background/unit-notes.md](./background/unit-notes.md): Unit as character, not prop — with header on how the scene evolved from E2 to E4
 - [/background/visual-bible.md](./background/visual-bible.md): Camera modes, color arc, the Static's production design — framed as artifact, written during E1
+- [/the-making/somchai.md](./the-making/somchai.md): The Somchai retrofit — how a food stall vendor becomes E4's most devastating beat
 
 ---
 
