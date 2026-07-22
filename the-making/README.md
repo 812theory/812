@@ -8,6 +8,8 @@ How 8:12 Theory got built.
 
 **[Somchai](./somchai.md)** — The food stall vendor retrofit. How a thirty-second recurring moment across E1-E3 becomes E4's most devastating beat. Somchai is real. The pad thai gai is real. The Static erasing him is not.
 
+**[V1 →](./v1)** — The prosey layer. Scripts written while the rules were still being figured out, with the rules embedded inside them. Unpitchable. Read [why](./v1/why-i-wrote-it-this-way.md) before reading anything in here.
+
 ---
 
 ## Before It Knew What It Was

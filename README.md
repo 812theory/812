@@ -76,3 +76,4 @@ This repo is being built live. Things get added as they get cleaned up.
 - [/the-making/somchai.md](./the-making/somchai.md): The Somchai retrofit — how a food stall vendor becomes E4's most devastating beat
 - [/the-making/logline.md](./the-making/logline.md): The oldest artifact — the logline that held while everything else was built around it
 - Root README restructured: two reading paths, timeline, changelog separated
+- [/the-making/v1](./the-making/v1): V1 folder created — why-i-wrote-it-this-way.md + Episode 1 prosey script
