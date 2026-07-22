@@ -33,3 +33,29 @@ Take it. Learn from it. Steal the good parts.
 I've sold scripts to Netflix and other networks. I worked on Strange New Worlds for 3.5 seasons. I took a different path on this one.
 
 Open an issue. Send an email. Tell me the chime arc broke you.
+
+---
+
+## What's here
+
+This repo is being built live. Things get added as they get cleaned up.
+
+**July 22, 2026**
+- Initial release: root README, series bible, Episode 1 "The 8:12 Path"
+- [/background](./background): Ten → Twelve → Thirteen rules progression with evolution headers, character bible, [chime grammar](./background/chime-grammar.md), production notes, audience analysis, bible beats v1 + v2
+- [/the-making](./the-making): The origin story (the Reddit post that started it)
+- Episode 2: "Sathorn"
+
+---
+
+## When this was built
+
+The repo is new. The show isn't.
+
+**February 28, 2026** — Concept rebuild. Started as a film. Became an 8-episode limited series in a single session.
+
+**March 1, 2026** — [Chime degradation grammar](./background/chime-grammar.md) locked. Character bible. Audience analysis. Unit production notes. First cold read feedback on E5.
+
+**March 2, 2026** — Bible beats v2 (rebuilt after E1-E5 were written and the scaffolding didn't fully hold). Grumpy exec cold read. Watchouts.
+
+**March–April 2026** — E1 through E8 written. Thirteen rules updated with the full camera arc. E6-E7 architecture locked. E5 v5 final.
