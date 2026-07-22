@@ -4,7 +4,7 @@
 
 **[Episode 1: "The 8:12 Path"](./e1.md)** — The walk. The case. The chime. The dream.
 
-**[Episode 1 — original layer](./e1-v1.md)** — The v1. Direction, camera grammar, production intent.
+Episode 1 — original layer — The v1. Direction, camera grammar, production intent.
 
 ---
 
