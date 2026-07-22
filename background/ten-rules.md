@@ -2,7 +2,7 @@
 
 *This is where it started. Ten rules, written before E1 was finished. The foundation.*
 
-*What came next: Sound and Camera were one rule here. By v12 they'd been separated into their own manifestos and a third rule — Dialogue is Third — had been added between them. The camera was a narrator. By v12 it was a character.*
+*What came next: Sound and Camera were one rule here. By v12 they'd been separated into their own manifestos and a third rule — Dialogue is Third — had been added between them. The camera was a narrator. By v12 it was a character. The final version is [Thirteen Rules](./thirteen-rules.md).*
 
 ---
 

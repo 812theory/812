@@ -4,7 +4,7 @@
 
 *In v10, Sound and Camera shared a single rule. By the time E3 was written, they'd grown too distinct to live together. Sound got its own manifesto. Camera stopped being a narrator and became a character. Dialogue was formally demoted to third. The found family was formalized — love through function, never named. And the showrunner note appeared: everyone on this set is an actor.*
 
-*What came next: the camera got a full eight-episode arc. Rule XIII arrived — the body is ahead.*
+*What came next: the camera got a full eight-episode arc. Rule XIII arrived — the body is ahead. The final version is [Thirteen Rules](./thirteen-rules.md).*
 
 ---
 
