@@ -12,6 +12,8 @@ Read that before anything else. It explains what these documents are and aren't.
 
 **[Episode 2: "Sathorn" — v1](./e2.md)** — Where movie format became show. The first episode written inside the Ten Rules as a system. The procedural engine locked here. Every episode after this has more confidence because of it.
 
+**[Episode 3: "Asok" — v1](./e3.md)** — The engine runs clean for the second time. The weird is the background. Unit searches every room. The bottle scene is the first crack you almost miss.
+
 ---
 
 More episodes incoming. The v1 layer is a work in progress — being cleaned up and contextualized before it goes public.
