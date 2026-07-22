@@ -1,5 +1,11 @@
 # 8:12 Theory
 
+A risk auditor walks the same route through Bangkok every morning at 8:12 AM. Traffic stops. Crowds part. He doesn't notice — he thinks he's just good at reading the city. He's been alive for centuries and his brain built a wall around everything it couldn't process.
+
+Something is eating Bangkok from the edges. Not destroying it — organizing it. The chaos that made the city alive is being replaced by something clean and wrong. The 7-11 door chime is the first thing that goes.
+
+---
+
 **8 x 60' Limited Series | Created by Jay Wright**
 
 I've sold scripts to Netflix and other networks. I worked on Star Trek: Strange New Worlds for 3.5 seasons. I normally write absurdist sci-fi.

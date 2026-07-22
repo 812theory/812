@@ -1,5 +1,13 @@
 # The Show
 
+Supernatural grief thriller. Eight episodes, one live.
+
+The show is built so that everything you notice on first watch means something different on second. The 7-11 door chime appears in every episode and degrades. The dog's head tilt fires at the same angle every time. The empty shelf in the bungalow kitchen is the first thing the audience understands and the last thing they name.
+
+Start with the bible. Then E1.
+
+---
+
 **[Bible](./bible.md)** — Read this first. The world, the engine, the characters, the architecture.
 
 **[Episode 1: "The 8:12 Path"](./e1.md)** — The walk. The case. The chime. The dream.
