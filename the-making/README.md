@@ -6,6 +6,8 @@ How 8:12 Theory got built.
 
 **[The Stupid Basis](./the-stupid-basis.md)** — Where this started. The same man, before the genre came off. Written years before 8:12 Theory existed.
 
+**[Creator Bio](./creator-bio.md)** — Multiple versions for different contexts. The "why you?" answer at the bottom is the one that matters.
+
 **[Somchai](./somchai.md)** — The food stall vendor retrofit. How a thirty-second recurring moment across E1-E3 becomes E4's most devastating beat. Somchai is real. The pad thai gai is real. The Static erasing him is not.
 
 **[V1 →](./v1)** — The prosey layer. Scripts written while the rules were still being figured out, with the rules embedded inside them. Unpitchable. Read [why](./v1/why-i-wrote-it-this-way.md) before reading anything in here.
