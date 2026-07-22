@@ -1,31 +1,33 @@
 # 8:12 Theory
 
-A risk auditor walks the same route through Bangkok every morning at 8:12 AM. Traffic stops. Crowds part. He doesn't notice — he thinks he's just good at reading the city. He's been alive for centuries and his brain built a wall around everything it couldn't process.
+**Read this if** you write. Or want to. Or have been trying to figure out how concept becomes architecture becomes scripts.
 
-Something is eating Bangkok from the edges. Not destroying it — organizing it. The chaos that made the city alive is being replaced by something clean and wrong. The 7-11 door chime is the first thing that goes.
-
----
-
-**8 x 60' Limited Series | Created by Jay Wright**
-
-I've sold scripts to Netflix and other networks. I worked on Star Trek: Strange New Worlds for 3.5 seasons. I normally write absurdist sci-fi.
-
-I took a different path on this one. Looked at myself instead.
-
-Everything after that is too personal to comment on.
+**Don't read this if** you're looking for a polished pitch package. This is everything, including the mess.
 
 ---
 
-What I built is here. All of it. Take it, learn from it, steal the good parts, reach out if something lands.
+A risk auditor walks the same route through Bangkok every morning at 8:12 AM. Traffic stops. Crowds part. He doesn't notice. He's been alive for centuries and his brain built a wall around everything it couldn't process.
 
-Two paths:
+Something is eating the city. Not destroying it — organizing it. The 7-11 door chime is the first thing that goes.
 
-**[The Show →](./the-show)** Sit down and read a complete series. Start with the bible. Then go in order. Eight episodes, one live.
+Eight episodes. Supernatural grief thriller. One live.
 
-**[The Making →](./the-making)** How it got built. The prosey layer that was stripped. The 500-page version. The thinking behind the choices.
+---
+
+Everything I built is here: the scripts, the pitch bible, thirteen production rules, a camera arc across eight episodes, a chime grammar, a full character bible, the origin story.
+
+Take it. Learn from it. Steal the good parts.
+
+**[The Show →](./the-show)** The series itself. Bible first, then Episode 1.
+
+**[The Making →](./the-making)** How it got built. The v1 layer. The thinking behind the choices.
+
+**[Background →](./background)** Production documents. Camera philosophy. Character architecture. Sound grammar. Working documents — some superseded by the scripts.
 
 ---
 
 **Jay Wright** — [wearecleardigital@gmail.com](mailto:wearecleardigital@gmail.com)
+
+I've sold scripts to Netflix and other networks. I worked on Strange New Worlds for 3.5 seasons. I took a different path on this one.
 
 Open an issue. Send an email. Tell me the chime arc broke you.
