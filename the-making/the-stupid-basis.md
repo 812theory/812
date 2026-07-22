@@ -1,6 +1,10 @@
 # The Stupid Basis
 
-*Same man. Same bungalow. Same city bending around him without explanation. Absurdist sci-fi intact. This is what it looked like before the genre came off.*
+Years ago — before any of this existed — I posted a silly story on Reddit. HFY subreddit. Has nothing to do with anything. Except it has everything to do with everything.
+
+Same man. Same bungalow. A city that bends around him and he doesn't know why. No genre. No architecture. No thirteen rules. Just the character, before anyone including me knew what he was.
+
+*This is what it looked like before the genre came off.*
 
 ---
 
