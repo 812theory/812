@@ -1,7 +1,19 @@
 # The Show
 
-Bible and scripts. Everything else lives in `/the-making`.
+**[Bible](./bible.md)** — Read this first. The world, the engine, the characters, the architecture.
 
-The scripts are v2 — extended direction stripped, `[removed]` markers show where it was. If you want to see what was underneath, `e1-v1.md` has the full original layer.
+**[Episode 1: "The 8:12 Path"](./e1.md)** — The walk. The case. The chime. The dream.
 
-Start with the bible. Then Episode 1.
+**[Episode 1 — original layer](./e1-v1.md)** — The v1. Direction, camera grammar, production intent.
+
+Episode 2: "Sathorn"
+Episode 3: "Asok"
+Episode 4: "Khao San"
+Episode 5: "555"
+Episode 6: "Dead Load"
+Episode 7: "Resonance"
+Episode 8: "Sathorn"
+
+---
+
+Everything else is in [/the-making](../the-making).

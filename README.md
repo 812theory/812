@@ -14,9 +14,9 @@ What I built is here. All of it. Take it, learn from it, steal the good parts, r
 
 Two paths:
 
-**[The Show →](./the-show)** The complete series. Bible, episode map, beat sheets, all 8 scripts. Clean. Start here.
+**[The Show →](./the-show)** Sit down and read a complete series. Start with the bible. Then go in order. Eight episodes, one live.
 
-**[The Making →](./the-making)** How it got built. The mess, the thinking, the version that was 500 pages before I cut it down. For people who want to understand the process, not just the product.
+**[The Making →](./the-making)** How it got built. The prosey layer that was stripped. The 500-page version. The thinking behind the choices.
 
 ---
 
