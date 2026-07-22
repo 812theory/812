@@ -20,4 +20,4 @@ Documents from before the show had a shape. Not useful as reference. Useful as e
 
 ---
 
-More incoming: the prosey layer, the coverage reviews, the thinking behind the choices.
+More incoming: the rest of the v1 episodes, coverage reviews, the thinking behind the choices.
