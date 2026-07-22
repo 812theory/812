@@ -67,14 +67,15 @@ The repo is new. The show isn't.
 This repo is being built live. Things get added as they get cleaned up.
 
 **July 22, 2026**
-- Initial release: root README, series bible, Episode 1 "The 8:12 Path"
-- [/background](./background): Ten → Twelve → Thirteen rules progression with evolution headers, character bible, [chime grammar](./background/chime-grammar.md), production notes, audience analysis, bible beats v1 + v2
-- [/the-making](./the-making): The origin story (the Reddit post that started it)
-- Episode 2: "Sathorn"
+- Initial release: root README, [series bible](./the-show/bible.md), [Episode 1 "The 8:12 Path"](./the-show/e1.md)
+- [/background](./background): [Ten](./background/ten-rules.md) → [Twelve](./background/twelve-rules.md) → [Thirteen](./background/thirteen-rules.md) rules progression with evolution headers, [character bible](./background/characters.md), [chime grammar](./background/chime-grammar.md), [production notes](./background/production.md), [audience analysis](./background/audience-analysis.md), [bible beats v1](./background/bible-beats-v1.md) + [v2](./background/bible-beats-v2.md)
+- [/the-making/the-stupid-basis.md](./the-making/the-stupid-basis.md): The origin story (the Reddit post that started it)
+- [Episode 2: "Sathorn"](./the-show/e2.md)
 - [/background/unit-notes.md](./background/unit-notes.md): Unit as character, not prop — with header on how the scene evolved from E2 to E4
 - [/background/visual-bible.md](./background/visual-bible.md): Camera modes, color arc, the Static's production design — framed as artifact, written during E1
 - [/the-making/somchai.md](./the-making/somchai.md): The Somchai retrofit — how a food stall vendor becomes E4's most devastating beat
 - [/the-making/logline.md](./the-making/logline.md): The oldest artifact — the logline that held while everything else was built around it
 - Root README restructured: two reading paths, timeline, changelog separated
-- [/the-making/v1](./the-making/v1): V1 folder created — why-i-wrote-it-this-way.md + Episode 1 prosey script
+- [/the-making/v1](./the-making/v1): V1 folder created — [why-i-wrote-it-this-way.md](./the-making/v1/why-i-wrote-it-this-way.md) + [Episode 1 prosey script](./the-making/v1/e1.md)
 - [/the-making/creator-bio.md](./the-making/creator-bio.md): Creator bio — multiple versions, credentials corrected
+- [/the-making/v1/pitch-bible.md](./the-making/v1/pitch-bible.md): V1 pitch bible — episode map stripped, E5 scene kept, credentials corrected. The doc that got "unpitchable." Links to [v2 bible](./the-show/bible.md).
