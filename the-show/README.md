@@ -49,3 +49,5 @@ Episode 8 — script written. Coming.
 ---
 
 Everything else is in [/the-making](../the-making).
+
+**[AI Disclosure](../ai-disclosure.md)**

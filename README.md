@@ -26,6 +26,8 @@ Take it. Learn from it. Steal the good parts.
 
 **[Background →](./background)** Production documents. Camera philosophy. Character architecture. Sound grammar. Working documents — some superseded by the scripts.
 
+**[AI Disclosure](./ai-disclosure.md)** — Three tools, a thinking partner relationship, and an honest percentage.
+
 ---
 
 **Jay Wright** — [wearecleardigital@gmail.com](mailto:wearecleardigital@gmail.com)
@@ -81,3 +83,10 @@ This repo is being built live. Things get added as they get cleaned up.
 - [/the-making/v1/pitch-bible.md](./the-making/v1/pitch-bible.md): V1 pitch bible — episode map stripped, E5 scene kept, credentials corrected. The doc that got "unpitchable." Links to [v2 bible](./the-show/bible.md).
 - [/the-making/v1/e2.md](./the-making/v1/e2.md): E2 "Sathorn" v1 — three parts combined. The episode where movie format became show, and the Ten Rules became a system to write inside instead of toward.
 - [/the-making/v1/e3.md](./the-making/v1/e3.md): E3 "Asok" v1 — three parts combined. The procedural engine runs clean. The bottle scene is the first crack in the machine.
+
+**July 23, 2026**
+- [AI Disclosure](./ai-disclosure.md): New document — three tools, a thinking partner relationship, and what 1.5–2.5% actually means when the rest came from a real place
+- [/background/watchouts.md](./background/watchouts.md): Development watchlist — gaps identified during the build, validated against a cold read
+- [/the-making/e2-production-notes.md](./the-making/e2-production-notes.md): Pre-rules camera and sound capture, written right after E1
+- [/the-making/e5-rewatch-architecture.md](./the-making/e5-rewatch-architecture.md): Ten rewatch punches for E5 — what the show is doing underneath what the audience sees
+- [E3](./the-show/e3.md) through [E8](./the-show/e8.md): Episodes added

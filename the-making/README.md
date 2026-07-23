@@ -10,6 +10,10 @@ How 8:12 Theory got built.
 
 **[Somchai](./somchai.md)** — The food stall vendor retrofit. How a thirty-second recurring moment across E1-E3 becomes E4's most devastating beat. Somchai is real. The pad thai gai is real. The Static erasing him is not.
 
+**[E2 Production Notes](./e2-production-notes.md)** — Written right after E1, before the rules had names. Camera grammar, sound logic, chime behavior — captured before it was formalized.
+
+**[E5 Rewatch Architecture](./e5-rewatch-architecture.md)** — Ten beats, each with a first-watch read and a rewatch read. The gap between them is the show's architecture. The show never confirms any of this. That's the point.
+
 **[V1 →](./v1)** — The prosey layer. Scripts written while the rules were still being figured out, with the rules embedded inside them. Unpitchable. Read [why](./v1/why-i-wrote-it-this-way.md) before reading anything in here.
 
 ---
@@ -23,3 +27,7 @@ Documents from before the show had a shape. Not useful as reference. Useful as e
 ---
 
 More incoming: the rest of the v1 episodes, coverage reviews, the thinking behind the choices.
+
+---
+
+**[AI Disclosure](../ai-disclosure.md)**
