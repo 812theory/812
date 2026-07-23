@@ -2,6 +2,10 @@
 ## v2 — Rebuilt from Scripts E1-E5 as Written
 ### Updated: 2026-03-02
 
+*The rebuild. v1 was scaffolding — written before any scripts existed. This was rebuilt after E1-E5 were written, reconciling the planned architecture with what the scripts actually became.*
+
+*The audience persona breakdown was expanded into its own document: [Audience Analysis](./audience-analysis.md). The structural guardrail for E6-E8 — The Lost Problem — is restored at the end of this file.*
+
 ---
 
 ## WHAT CHANGED FROM v1
@@ -123,6 +127,24 @@ The 8:12 silence is the show's thesis made temporal. What the city has been doin
 **Found family through parallel damage.** Met, Chloe, Ice, and Unit don't bond. They recognize each other. Each is carrying something they've reduced to manageable size. The show is about what happens when the reductions stop holding.
 
 **Forward, not backward.** Met's arc is not recovery. Met does not recapture the before-Met. What emerges is forward-Met: a man whose regulator cracked and who learns to function without the full reduction. The machine doesn't get rebuilt. The machine becomes transparent.
+
+---
+
+## THE LOST PROBLEM (E6-E8 STRUCTURAL GUARDRAIL)
+
+The audience has built trust through five episodes that the process has a reason. The rage is coherent. The weird is earned. The show does not waste their time.
+
+E6-E8 must honor this trust by:
+
+1. **Never abandoning the procedural spine.** Cases arrive. Cases close. The engine runs. Even if the engine is thinner, even if the remainder is bigger, even if the reduction is visibly failing — the structure holds because the structure is what the audience trusts.
+
+2. **Never explaining the mythology.** The cosmology exists. Steve hints. Nobody names it. The three-legged stool, the Constants, the field — all of it stays in the negative space. If Met names what he is, the show dies. If Steve gives a speech, the show dies. If the finale explains the 8:12 silence, the show dies.
+
+3. **Earning the emotional resolution without cheating.** The answer lands as recognition, not revelation. The audience should feel "Oh" — not "So that's the rule." The difference: recognition means the audience already had the pieces and the show helped them assemble. Revelation means the show withheld the answer and then delivered it. Recognition is Sixth Sense. Revelation is a twist. This show does not twist. This show recontextualizes.
+
+4. **Letting Bangkok be Bangkok.** The city's chaos is its immune system. The Static is order, not chaos. The show's argument — that Bangkok's specificity is what's worth saving — must be visible in every frame of E6-E8. The city is not a backdrop for Met's arc. The city is a character whose arc parallels Met's. Bangkok is also learning to hold complexity instead of reducing it.
+
+5. **Closing the door you opened, not a different door.** The show promised: a man who survived the unsurvivable by reducing the world is being forced to stop reducing. E8 delivers: he stopped. What's left is not what he expected. What's left is enough.
 
 ---
 

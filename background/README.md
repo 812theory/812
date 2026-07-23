@@ -16,7 +16,7 @@ The sequence that shows where this came from.
 
 **[Bible Beats v1](./bible-beats-v1.md)** — The original scaffolding. Written before any scripts existed. The engine, the world rules, the eight-episode arc — all of it planned, none of it tested.
 
-**[Bible Beats v2](./bible-beats-v2.md)** — The rebuild. E1-E5 were written. The scaffolding held in some places and the scripts went further in others. Episode 5 was supposed to be "Shear Wall" — Met trying to close the Noi investigation with math. It became "555." Read v1, then v2, and the gap between them is where the show became itself.
+**[Bible Beats v2](./bible-beats-v2.md)** — The rebuild. E1-E5 were written. The scaffolding held in some places and the scripts went further in others. Episode 5 was supposed to be "Shear Wall" — Met trying to close the Noi investigation with math. It became "555." Read v1, then v2, and the gap between them is where the show became itself. The audience persona framework was expanded into [Audience Analysis](./audience-analysis.md).
 
 ---
 

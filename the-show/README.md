@@ -22,17 +22,29 @@ Episode 2 — dialogue + standard direction only. Prosey production intent remov
 
 ---
 
-Episode 3: "Asok" — The BTS interchange that makes no sense but works. The bottle breaks. Finds an impossible balance. The universe won't let him off the hook.
+**[Episode 3: "Asok"](./e3.md)** — The BTS interchange that makes no sense but works. The bottle breaks. Finds an impossible balance. The universe won't let him off the hook.
 
-Episode 4: "Khao San" — The episode that makes you need to leave. The chime goes silent. Steve already has the train tickets.
+Episode 3 — script written. Coming.
 
-Episode 5: "555" — 555 means ha ha ha in Thai. The most devastating episode is titled with laughter.
+**[Episode 4: "Khao San"](./e4.md)** — The episode that makes you need to leave. The chime goes silent. Steve already has the train tickets.
 
-Episode 6: "Dead Load" — The morning after. The camera is scared now, for the same reason Met is.
+Episode 4 — script written. Coming.
 
-Episode 7: "Resonance" — Two hands on the same wall. Neither knows about the other.
+**[Episode 5: "555"](./e5.md)** — 555 means ha ha ha in Thai. The most devastating episode is titled with laughter.
 
-Episode 8: "Sathorn" — Loy Krathong. The bottle doesn't get flipped. "Oh."
+Episode 5 — script written. Final. v5. Coming.
+
+**[Episode 6: "Dead Load"](./e6.md)** — The morning after. The camera is scared now, for the same reason Met is.
+
+Episode 6 — script written. Coming.
+
+**[Episode 7: "Resonance"](./e7.md)** — Two hands on the same wall. Neither knows about the other.
+
+Episode 7 — script written. Coming.
+
+**[Episode 8: "Sathorn"](./e8.md)** — Loy Krathong. The bottle doesn't get flipped. "Oh."
+
+Episode 8 — script written. Coming.
 
 ---
 
