@@ -42,6 +42,8 @@ This is the episode everything before it was pointing at. And everything after i
 
 ### E7 — "Resonance" — Key Beats
 
+- Shophouse case (third pass): interior load-bearing wall that shouldn't exist IS load-bearing. Structure routes around it like it was always there. The structural equivalent of Met's original wall.
+
 - Steve's line on the shophouse: *"Perfect copy. Whatever was here — gone. What's standing now is structurally identical. Historically impossible."* Met is describing the building. Steve is hearing autobiography.
 
 - Steve's grin is Steve's chime. Same degradation arc. By E7 he's running on borrowed vocabulary.
@@ -56,7 +58,15 @@ This is the episode everything before it was pointing at. And everything after i
 
 - Exit state: two registers held simultaneously — professional closed, warmth-finding open. First time in the series.
 
+- Ice's document: a handwritten note in Met's own writing going generic. The man becoming more present (coffee, "Chlo—", hand on wall) and less documented simultaneously.
+
+- TV escalation: every TV, everywhere, playing the same show — two hosts in conversation with no subject. Nobody in the episode notices. The audience does.
+
+- Ice on Chloe tomatoing: recognition AND grief/relief simultaneously. Both true, neither cancels the other.
+
 - Grandmother's Thai line: *"คุณกำลังแบกอะไรอยู่นะคะ"* — untranslated. Audience who speaks Thai gets content. Everyone gets tone.
+
+- Ending: smash cut to black → silence → Pentium tone rising → three seconds → fades.
 
 ### E8 — Constraints
 
