@@ -14,6 +14,14 @@ How 8:12 Theory got built.
 
 **[E5 Rewatch Architecture](./e5-rewatch-architecture.md)** — Ten beats, each with a first-watch read and a rewatch read. The gap between them is the show's architecture. The show never confirms any of this. That's the point.
 
+**[E6-E7 Arc](./e6-e7-arc.md)** — The structural architecture for Episodes 6 and 7, written before the beat sheets. Pre-script — superseded by the final episodes. This is the foundation under the writing, not what E6 and E7 became. Read it to understand the camera's recovery arc and why these two episodes function as one.
+
+**[Pitch Process](./pitch-process.md)** — The movie that became the show, the imaginings that didn't survive, and the pitch sequence that came after. Written during active pitch prep, March 2026.
+
+**[The Rebuild](./the-rebuild.md)** — February 28, 2026. The single session where the movie became a series. The day Met's wound was found. The architecture built in real time, without a net. Most of what followed superseded what's here. Read it to see the thinking before it had a shape.
+
+**[Red Team](./red-team.md)** — Blecho sessions across E2-E5. Ongoing hostile reads, recalibrations, and honest audits of where the reader was performing instead of evaluating. The notes that survived every round are the real ones. See also: [AI Disclosure](../ai-disclosure.md)
+
 **[V1 →](./v1)** — The prosey layer. Scripts written while the rules were still being figured out, with the rules embedded inside them. Unpitchable. Read [why](./v1/why-i-wrote-it-this-way.md) before reading anything in here.
 
 ---
