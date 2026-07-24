@@ -16,7 +16,7 @@ The sequence that shows where this came from.
 
 **[Bible Beats v1](./bible-beats-v1.md)** — The original scaffolding. Written before any scripts existed. The engine, the world rules, the eight-episode arc — all of it planned, none of it tested.
 
-**[Bible Beats v2](./bible-beats-v2.md)** — The rebuild. E1-E5 were written. The scaffolding held in some places and the scripts went further in others. Episode 5 was supposed to be "Shear Wall" — Met trying to close the Noi investigation with math. It became "555." Read v1, then v2, and the gap between them is where the show became itself. The audience persona framework was expanded into [Audience Analysis](./audience-analysis.md).
+**[Bible Beats v2](./bible-beats-v2.md)** — The rebuild. E1-E5 were written. The scaffolding held in some places and the scripts went further in others. Episode 5 was supposed to be "Shear Wall" — Met trying to close the Noi investigation with math. It became "555." Read v1, then v2, and the gap between them is where the show became itself.
 
 ---
 
@@ -40,12 +40,8 @@ The craft documents. Reference material for how the show's architecture works.
 
 **[Visual Bible](./visual-bible.md)** — Written during E1. The perceptual language: camera modes, color arc, the Static's production design, the head-tilt spec. An artifact of where the thinking was — the architecture kept moving after this.
 
-**[E2 Production Notes](../the-making/e2-production-notes.md)** — Written right after E1, before the rules had names. Camera grammar, sound logic, chime behavior — captured before it was formalized. The Visual Bible, Thirteen Rules, and Chime Grammar supersede it. The Diagnostic POV spec and Unit-cam language appear here first.
-
 **[Production Notes](./production.md)** — Bangkok, the soundtrack, the cast frequency.
 
 **[Audience Analysis](./audience-analysis.md)** — The three types of people watching and what each one needs.
 
----
-
-**[AI Disclosure](../ai-disclosure.md)** — Three tools, a thinking partner relationship, and an honest percentage.
+**[Writer Thoughts](./writer-thoughts.md)** — Where the show came from, the principle the horror runs on, and the decisions that were locked before the beat sheets were written. Read this before touching E5, E7, or E8.
