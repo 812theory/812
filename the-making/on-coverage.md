@@ -1,5 +1,13 @@
 ﻿# On Coverage
 
+## The order matters.
+
+Trevor came first. Not a coverage service — a call. He's a writer who knows the genre, and he got on a video call and read the v1 scripts and understood immediately what the show was doing. The "anti Sixth Sense" inversion — the idea that instead of the dead not knowing they're dead, here the living doesn't know he's the source — he named that in the first ten minutes. His notes are in the scripts themselves, not in a separate document. He wrote in the margins: where the camera logic broke, where the formatting confused him, where something was overwritten and needed to breathe. The notes that sting are the ones that were right.
+
+That call happened before the professional coverage. The order matters because Trevor confirmed the thing was real before Scott Parisien told me the door was the wrong size.
+
+---
+
 The v1 pitch bible for 8:12 Theory is in this folder. So is the professional coverage it got in March 2026.
 
 Read the coverage. It's a little rude. It was also right.
