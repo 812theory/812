@@ -1,4 +1,4 @@
-# /gears/ — ECHO Gear System
+﻿# /gears/ â€” ECHO Gear System
 
 Each file in this folder defines a full gear or loop. The master contract holds the invocation map only. Load the relevant file when a gear is invoked.
 
@@ -26,5 +26,5 @@ Each file in this folder defines a full gear or loop. The master contract holds 
 ## NOTES
 
 - Gear files are containers. They start with current definitions + Jay-specific context. They grow with field data over time.
-- FULL MODE has no gear file — it's the default integrated state, defined entirely by the contract and operator profile.
+- FULL MODE has no gear file â€” it's the default integrated state, defined entirely by the contract and operator profile.
 - When a gear is invoked, load its file via GitHub MCP before responding. Don't operate from memory of the invocation map summary.
