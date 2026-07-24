@@ -31,3 +31,9 @@ Not when you're still finding the story — that's too early, and the notes will
 The right moment is when you think it's done and something still feels off and you can't see it anymore. That's when outside eyes are worth paying for.
 
 The wrong reason to pay for it is to get permission to keep going. That permission is free. You already have it.
+
+---
+
+**What the coverage did:**
+
+Contextualized the material correctly. Not to validate it — to communicate it. The coverage went out with the submission, and it opened a conversation with a major studio. That's not here as a name-drop. It's here because earlier writers don't always know that framing the work is part of the work. Coverage is one tool for that. Use it right and it travels with you.
