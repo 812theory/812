@@ -1,19 +1,25 @@
-# The Making — V1
+# 8:12 THEORY — THE EPISODES
 
-Start here: **[Why I Wrote It This Way](./why-i-wrote-it-this-way.md)**
-
-Read that before anything else. It explains what these documents are and aren't.
+*v1 scripts — in order*
 
 ---
 
-**[V1 Pitch Bible](./pitch-bible.md)** — The pitch document that went out before v1 went to coverage. The bones held — logline, comp triangle, engine, characters, visual thesis. The episode map has been stripped (the episodes are the episodes). The E5 scene is here because it was a pitch move, not a plot summary: it's the writer showing what the show can do before anyone's watched anything. The [v2 bible](../../the-show/bible.md) is what got rebuilt after E1-E5 existed and the scaffolding didn't fully hold.
+**[E1 — "The 8:12 Path"](./e1.md)** — The introduction. Met's routine. The first freeze. The chime, intact.
 
-**[Episode 1: "The 8:12 Path" — v1](./e1.md)** — The prosey layer. Rules embedded in the script because the rules weren't trusted as standalone documents yet. Unpitchable. The foundation for everything that came after.
+**[E2 — "Sathorn"](./e2.md)** — The engine locks. A case closes completely and leaves a remainder Chloe can't account for.
 
-**[Episode 2: "Sathorn" — v1](./e2.md)** — Where movie format became show. The first episode written inside the Ten Rules as a system. The procedural engine locked here. Every episode after this has more confidence because of it.
+**[E3 — "Asok"](./e3.md)** — Connective tissue. Unit checks every room. E4 earns what this one plants.
 
-**[Episode 3: "Asok" — v1](./e3.md)** — The engine runs clean for the second time. The weird is the background. Unit searches every room. The bottle scene is the first crack you almost miss.
+**[E4 — "Khao San"](./e4.md)** — The radius expands. A tourist freezes. The audience wants to leave Bangkok before they know why.
+
+**[E5 — "555"](./e5.md)** — The break. The dissolution. The episode everything before it was pointing at.
+
+**[E6 — "Dead Load"](./e6.md)** — The return. Scared-cam. Ice alone with the cabinet. NAME: NAME.
+
+**[E7 — "Resonance"](./e7.md)** — The close of the E6/E7 arc. The seams show. The wall speaks. The instrument holds two registers simultaneously.
+
+**[E8 — "Sathorn"](./e8.md)** — The series finale. The chime resets. The bottle goes back. "It can't stay like this."
 
 ---
 
-More episodes incoming. The v1 layer is a work in progress — being cleaned up and contextualized before it goes public.
+*These are v1 drafts — the scripts as they were written, in order. The show as it was found. For the architecture that built them, see [background](../../background/).*
