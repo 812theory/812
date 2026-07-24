@@ -1,9 +1,9 @@
 # What's Next
 
-Episodes 2–8 are written. They're coming.
+It's done. All eight episodes are live.
 
-The making-of is coming — the v1 dump, the 500-page version, the thinking behind the choices, the weird stuff that didn't fit anywhere else.
+The v1 scripts — every draft, every layer, all eight — are in [/the-making/v1](./the-making/v1). The pitch bible, the origin story, the production thinking — it's all there.
 
-No schedule. Just: it's all there and it's all coming.
+If you want to cover this, option it, or just talk about it: [wearecleardigital@gmail.com](mailto:wearecleardigital@gmail.com)
 
 — Jay

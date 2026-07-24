@@ -26,8 +26,6 @@ Take it. Learn from it. Steal the good parts.
 
 **[Background →](./background)** Production documents. Camera philosophy. Character architecture. Sound grammar. Working documents — some superseded by the scripts.
 
-**[AI Disclosure](./ai-disclosure.md)** — Three tools, a thinking partner relationship, and an honest percentage.
-
 ---
 
 **Jay Wright** — [wearecleardigital@gmail.com](mailto:wearecleardigital@gmail.com)
@@ -85,8 +83,11 @@ This repo is being built live. Things get added as they get cleaned up.
 - [/the-making/v1/e3.md](./the-making/v1/e3.md): E3 "Asok" v1 — three parts combined. The procedural engine runs clean. The bottle scene is the first crack in the machine.
 
 **July 23, 2026**
-- [AI Disclosure](./ai-disclosure.md): New document — three tools, a thinking partner relationship, and what 1.5–2.5% actually means when the rest came from a real place
-- [/background/watchouts.md](./background/watchouts.md): Development watchlist — gaps identified during the build, validated against a cold read
-- [/the-making/e2-production-notes.md](./the-making/e2-production-notes.md): Pre-rules camera and sound capture, written right after E1
-- [/the-making/e5-rewatch-architecture.md](./the-making/e5-rewatch-architecture.md): Ten rewatch punches for E5 — what the show is doing underneath what the audience sees
-- [E3](./the-show/e3.md) through [E8](./the-show/e8.md): Episodes added
+- [/the-making/v1/e4.md](./the-making/v1/e4.md): E4 "Khao San" v1 — three parts combined. The radius expands. A tourist freezes. The episode that makes you want to leave Bangkok.
+- [/the-making/v1/e5.md](./the-making/v1/e5.md): E5 "555" v1 — three parts combined. The break. The dissolution. The episode everything before it was pointing at.
+- [/the-making/v1/e6.md](./the-making/v1/e6.md): E6 "Dead Load" v1 — two parts combined. The return. Scared-cam. Ice alone with the cabinet.
+- [/the-making/v1/e7.md](./the-making/v1/e7.md): E7 "Resonance" v1 — three parts combined. The seams show. The wall speaks. The instrument holds two registers simultaneously.
+- [/the-making/v1/e8.md](./the-making/v1/e8.md): E8 "Sathorn" v1 — three-part draft merged. The chime resets. The bottle goes back. The series finale.
+- [/the-making/v1/README.md](./the-making/v1/README.md): V1 episode map updated — all eight episodes linked.
+- [/the-show/README.md](./the-show/README.md): E3–E8 formatted with links.
+- [whats-next.md](./whats-next.md): Updated — all eight episodes are live.
