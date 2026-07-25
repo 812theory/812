@@ -45,3 +45,5 @@ The craft documents. Reference material for how the show's architecture works.
 **[Audience Analysis](./audience-analysis.md)** — The three types of people watching and what each one needs.
 
 **[Writer Thoughts](./writer-thoughts.md)** — Where the show came from, the principle the horror runs on, and the decisions that were locked before the beat sheets were written. Read this before touching E5, E7, or E8.
+
+**[Watchouts](./watchouts.md)** — What the show is most likely to get wrong in production, and why. The failure modes, named in advance.

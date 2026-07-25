@@ -34,6 +34,8 @@ I've sold scripts to Netflix and other networks. I worked on Strange New Worlds 
 
 Open an issue. Send an email. Tell me the chime arc broke you.
 
+**[AI Disclosure →](./ai-disclosure.md)** — AI was in the room. Here's exactly what that means and what it didn't do.
+
 ---
 
 ## How to read this repo
