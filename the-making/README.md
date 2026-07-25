@@ -26,6 +26,8 @@ Read this if you want to see the process, not just the product. The mess is the 
 
 **[On Coverage](./on-coverage.md)** — What the coverage said and what it actually meant.
 
+**[Why Bangkok](./why-bangkok.md)** — Why the show can't be shot anywhere else, and the conversation that ended when that became clear.
+
 ---
 
 ## The v1 layer
