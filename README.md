@@ -20,7 +20,7 @@ Everything I built is here: the scripts, the pitch bible, thirteen production ru
 
 Take it. Learn from it. Steal the good parts.
 
-**[The Show →](./the-show)** The series itself. Bible first, then Episode 1.
+**[The Show →](./the-show)** The series itself. All eight episodes, complete. Bible first, then Episode 1.
 
 **[The Making →](./the-making)** How it got built. The v1 layer. The thinking behind the choices.
 
@@ -34,8 +34,6 @@ I've sold scripts to Netflix and other networks. I worked on Strange New Worlds 
 
 Open an issue. Send an email. Tell me the chime arc broke you.
 
-**[AI Disclosure →](./ai-disclosure.md)** — AI was in the room. Here's exactly what that means and what it didn't do.
-
 ---
 
 ## How to read this repo
@@ -44,7 +42,7 @@ Two paths. Pick one.
 
 **The clean path** — You want the show, not the build. Start with the [bible](./the-show/bible.md), then [Episode 1](./the-show/e1.md). The [background docs](./background) are reference if you want them. Skip [/the-making](./the-making) entirely on first read.
 
-**The messy path** — You want to see how concept becomes architecture becomes scripts. Start with the [logline](./the-making/logline.md) — the oldest artifact, written before anything else existed. Then [the stupid basis](./the-making/the-stupid-basis.md). Then the [bible](./the-show/bible.md). Then the [rules in sequence](./background) — Ten → Twelve → Thirteen. Then the episodes. The mess is the point.
+**The messy path** — You want to see how concept becomes architecture becomes scripts. Start with the [logline](./the-making/logline.md) — the oldest artifact, written before anything else existed. Then [the stupid basis](./the-making/the-stupid-basis.md). Then the [bible](./the-show/bible.md). Then the rules in sequence — [Ten](./background/ten-rules.md) → [Twelve](./background/twelve-rules.md) → [Thirteen](./background/thirteen-rules.md). Then the episodes. The mess is the point.
 
 ---
 
@@ -117,5 +115,7 @@ If your work is waiting — if you put it down and can't tell if that's dedicati
 It waited for me.
 
 ---
+
+**[AI Disclosure →](./ai-disclosure.md)** — AI was in the room. Here's exactly what that means and what it didn't do.
 
 *Jay Wright — [wearecleardigital@gmail.com](mailto:wearecleardigital@gmail.com)*
