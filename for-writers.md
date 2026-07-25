@@ -1,4 +1,4 @@
-﻿# For Writers
+# For Writers
 
 Not producers. Not executives. Writers.
 
@@ -21,6 +21,10 @@ Take whatever's useful. Leave what isn't. The thirteen rules work on any show �
 And if you have a stupid basis of your own — a thing that doesn't have a genre yet, a character without a story, a Reddit post nobody read — keep going.
 
 Seven years from now it might have thirteen rules.
+
+Everything I built to get there is in this repo. The scripts. The bible. The rules. The v1 drafts that got called unpitchable. All of it. Open.
+
+Take it.
 
 Jay Wright
 wearecleardigital@gmail.com

@@ -1,16 +1,16 @@
-﻿# 8:12 Theory
+# 8:12 Theory
 
 **Read this if** you write. Or want to. Or have been trying to figure out how concept becomes architecture becomes scripts.
 
 **Don't read this if** you're looking for a polished pitch package. This is everything, including the mess.
 
-**If you want to option or produce this** â€” [wearecleardigital@gmail.com](mailto:wearecleardigital@gmail.com) is faster than GitHub.
+**If you want to option or produce this** — [wearecleardigital@gmail.com](mailto:wearecleardigital@gmail.com) is faster than GitHub.
 
 ---
 
 A structural engineer walks the same route through Bangkok every morning at 8:12 AM. Traffic stops. Crowds part. He doesn't notice. He's been alive for centuries and his brain built a wall around everything it couldn't process.
 
-Something is eating the city. Not destroying it â€” organizing it. The 7-11 door chime is the first thing that goes.
+Something is eating the city. Not destroying it — organizing it. The 7-11 door chime is the first thing that goes.
 
 Eight episodes. Supernatural grief thriller. One live.
 
@@ -20,15 +20,15 @@ Everything I built is here: the scripts, the pitch bible, thirteen production ru
 
 Take it. Learn from it. Steal the good parts.
 
-**[The Show â†’](./the-show)** The series itself. Bible first, then Episode 1.
+**[The Show →](./the-show)** The series itself. Bible first, then Episode 1.
 
-**[The Making â†’](./the-making)** How it got built. The v1 layer. The thinking behind the choices.
+**[The Making →](./the-making)** How it got built. The v1 layer. The thinking behind the choices.
 
-**[Background â†’](./background)** Production documents. Camera philosophy. Character architecture. Sound grammar. Working documents â€” some superseded by the scripts.
+**[Background →](./background)** Production documents. Camera philosophy. Character architecture. Sound grammar. Working documents — some superseded by the scripts.
 
 ---
 
-**Jay Wright** â€” [wearecleardigital@gmail.com](mailto:wearecleardigital@gmail.com)
+**Jay Wright** — [wearecleardigital@gmail.com](mailto:wearecleardigital@gmail.com)
 
 I've sold scripts to Netflix and other networks. I worked on Strange New Worlds for 3.5 seasons. I took a different path on this one.
 
@@ -40,9 +40,9 @@ Open an issue. Send an email. Tell me the chime arc broke you.
 
 Two paths. Pick one.
 
-**The clean path** â€” You want the show, not the build. Start with the [bible](./the-show/bible.md), then [Episode 1](./the-show/e1.md). The [background docs](./background) are reference if you want them. Skip [/the-making](./the-making) entirely on first read.
+**The clean path** — You want the show, not the build. Start with the [bible](./the-show/bible.md), then [Episode 1](./the-show/e1.md). The [background docs](./background) are reference if you want them. Skip [/the-making](./the-making) entirely on first read.
 
-**The messy path** â€” You want to see how concept becomes architecture becomes scripts. Start with the [logline](./the-making/logline.md) â€” the oldest artifact, written before anything else existed. Then [the stupid basis](./the-making/the-stupid-basis.md). Then the [bible](./the-show/bible.md). Then the [rules in sequence](./background) â€” Ten â†’ Twelve â†’ Thirteen. Then the episodes. The mess is the point.
+**The messy path** — You want to see how concept becomes architecture becomes scripts. Start with the [logline](./the-making/logline.md) — the oldest artifact, written before anything else existed. Then [the stupid basis](./the-making/the-stupid-basis.md). Then the [bible](./the-show/bible.md). Then the [rules in sequence](./background) — Ten → Twelve → Thirteen. Then the episodes. The mess is the point.
 
 ---
 
@@ -50,15 +50,15 @@ Two paths. Pick one.
 
 The repo is new. The show isn't.
 
-**2019** â€” "I Am Not a God" â€” a short story posted to r/HFY. The same man, the same bungalow, the same bending of reality. No genre. No architecture. Just the character, before anyone knew what he was. The show starts here.
+**2019** — "I Am Not a God" — a short story posted to r/HFY. The same man, the same bungalow, the same bending of reality. No genre. No architecture. Just the character, before anyone knew what he was. The show starts here.
 
-**February 28, 2026** â€” Concept rebuild. Started as a film. Became an 8-episode limited series in a single session.
+**February 28, 2026** — Concept rebuild. Started as a film. Became an 8-episode limited series in a single session.
 
-**March 1, 2026** â€” [Chime degradation grammar](./background/chime-grammar.md) locked. Character bible. Audience analysis. Unit production notes. First cold read feedback on E5.
+**March 1, 2026** — [Chime degradation grammar](./background/chime-grammar.md) locked. Character bible. Audience analysis. Unit production notes. First cold read feedback on E5.
 
-**March 2, 2026** â€” Bible beats v2 (rebuilt after E1-E5 were written and the scaffolding didn't fully hold). Grumpy exec cold read. Watchouts.
+**March 2, 2026** — Bible beats v2 (rebuilt after E1-E5 were written and the scaffolding didn't fully hold). Grumpy exec cold read. Watchouts.
 
-**Marchâ€“April 2026** â€” E1 through E8 written. Thirteen rules updated with the full camera arc. E6-E7 architecture locked. E5 v5 final.
+**March–April 2026** — E1 through E8 written. Thirteen rules updated with the full camera arc. E6-E7 architecture locked. E5 v5 final.
 
 ---
 
@@ -68,26 +68,52 @@ This repo is being built live. Things get added as they get cleaned up.
 
 **July 22, 2026**
 - Initial release: root README, [series bible](./the-show/bible.md), [Episode 1 "The 8:12 Path"](./the-show/e1.md)
-- [/background](./background): [Ten](./background/ten-rules.md) â†’ [Twelve](./background/twelve-rules.md) â†’ [Thirteen](./background/thirteen-rules.md) rules progression with evolution headers, [character bible](./background/characters.md), [chime grammar](./background/chime-grammar.md), [production notes](./background/production.md), [audience analysis](./background/audience-analysis.md), [bible beats v1](./background/bible-beats-v1.md) + [v2](./background/bible-beats-v2.md)
+- [/background](./background): [Ten](./background/ten-rules.md) → [Twelve](./background/twelve-rules.md) → [Thirteen](./background/thirteen-rules.md) rules progression with evolution headers, [character bible](./background/characters.md), [chime grammar](./background/chime-grammar.md), [production notes](./background/production.md), [audience analysis](./background/audience-analysis.md), [bible beats v1](./background/bible-beats-v1.md) + [v2](./background/bible-beats-v2.md)
 - [/the-making/the-stupid-basis.md](./the-making/the-stupid-basis.md): The origin story (the Reddit post that started it)
 - [Episode 2: "Sathorn"](./the-show/e2.md)
-- [/background/unit-notes.md](./background/unit-notes.md): Unit as character, not prop â€” with header on how the scene evolved from E2 to E4
-- [/background/visual-bible.md](./background/visual-bible.md): Camera modes, color arc, the Static's production design â€” framed as artifact, written during E1
-- [/the-making/somchai.md](./the-making/somchai.md): The Somchai retrofit â€” how a food stall vendor becomes E4's most devastating beat
-- [/the-making/logline.md](./the-making/logline.md): The oldest artifact â€” the logline that held while everything else was built around it
+- [/background/unit-notes.md](./background/unit-notes.md): Unit as character, not prop — with header on how the scene evolved from E2 to E4
+- [/background/visual-bible.md](./background/visual-bible.md): Camera modes, color arc, the Static's production design — framed as artifact, written during E1
+- [/the-making/somchai.md](./the-making/somchai.md): The Somchai retrofit — how a food stall vendor becomes E4's most devastating beat
+- [/the-making/logline.md](./the-making/logline.md): The oldest artifact — the logline that held while everything else was built around it
 - Root README restructured: two reading paths, timeline, changelog separated
-- [/the-making/v1](./the-making/v1): V1 folder created â€” [why-i-wrote-it-this-way.md](./the-making/v1/why-i-wrote-it-this-way.md) + [Episode 1 prosey script](./the-making/v1/e1.md)
-- [/the-making/creator-bio.md](./the-making/creator-bio.md): Creator bio â€” multiple versions, credentials corrected
-- [/the-making/v1/pitch-bible.md](./the-making/v1/pitch-bible.md): V1 pitch bible â€” episode map stripped, E5 scene kept, credentials corrected. The doc that got "unpitchable." Links to [v2 bible](./the-show/bible.md).
-- [/the-making/v1/e2.md](./the-making/v1/e2.md): E2 "Sathorn" v1 â€” three parts combined. The episode where movie format became show, and the Ten Rules became a system to write inside instead of toward.
-- [/the-making/v1/e3.md](./the-making/v1/e3.md): E3 "Asok" v1 â€” three parts combined. The procedural engine runs clean. The bottle scene is the first crack in the machine.
+- [/the-making/v1](./the-making/v1): V1 folder created — [why-i-wrote-it-this-way.md](./the-making/v1/why-i-wrote-it-this-way.md) + [Episode 1 prosey script](./the-making/v1/e1.md)
+- [/the-making/creator-bio.md](./the-making/creator-bio.md): Creator bio — multiple versions, credentials corrected
+- [/the-making/v1/pitch-bible.md](./the-making/v1/pitch-bible.md): V1 pitch bible — episode map stripped, E5 scene kept, credentials corrected. The doc that got "unpitchable." Links to [v2 bible](./the-show/bible.md).
+- [/the-making/v1/e2.md](./the-making/v1/e2.md): E2 "Sathorn" v1 — three parts combined. The episode where movie format became show, and the Ten Rules became a system to write inside instead of toward.
+- [/the-making/v1/e3.md](./the-making/v1/e3.md): E3 "Asok" v1 — three parts combined. The procedural engine runs clean. The bottle scene is the first crack in the machine.
 
 **July 23, 2026**
-- [/the-making/v1/e4.md](./the-making/v1/e4.md): E4 "Khao San" v1 â€” three parts combined. The radius expands. A tourist freezes. The episode that makes you want to leave Bangkok.
-- [/the-making/v1/e5.md](./the-making/v1/e5.md): E5 "555" v1 â€” three parts combined. The break. The dissolution. The episode everything before it was pointing at.
-- [/the-making/v1/e6.md](./the-making/v1/e6.md): E6 "Dead Load" v1 â€” two parts combined. The return. Scared-cam. Ice alone with the cabinet.
-- [/the-making/v1/e7.md](./the-making/v1/e7.md): E7 "Resonance" v1 â€” three parts combined. The seams show. The wall speaks. The instrument holds two registers simultaneously.
-- [/the-making/v1/e8.md](./the-making/v1/e8.md): E8 "Sathorn" v1 â€” three-part draft merged. The chime resets. The bottle goes back. The series finale.
-- [/the-making/v1/README.md](./the-making/v1/README.md): V1 episode map updated â€” all eight episodes linked.
-- [/the-show/README.md](./the-show/README.md): E3â€“E8 formatted with links.
-- [whats-next.md](./whats-next.md): Updated â€” all eight episodes are live.
+- [/the-making/v1/e4.md](./the-making/v1/e4.md): E4 "Khao San" v1 — three parts combined. The radius expands. A tourist freezes. The episode that makes you want to leave Bangkok.
+- [/the-making/v1/e5.md](./the-making/v1/e5.md): E5 "555" v1 — three parts combined. The break. The dissolution. The episode everything before it was pointing at.
+- [/the-making/v1/e6.md](./the-making/v1/e6.md): E6 "Dead Load" v1 — two parts combined. The return. Scared-cam. Ice alone with the cabinet.
+- [/the-making/v1/e7.md](./the-making/v1/e7.md): E7 "Resonance" v1 — three parts combined. The seams show. The wall speaks. The instrument holds two registers simultaneously.
+- [/the-making/v1/e8.md](./the-making/v1/e8.md): E8 "Sathorn" v1 — three-part draft merged. The chime resets. The bottle goes back. The series finale.
+- [/the-making/v1/README.md](./the-making/v1/README.md): V1 episode map updated — all eight episodes linked.
+- [/the-show/README.md](./the-show/README.md): E3–E8 formatted with links.
+- [whats-next.md](./whats-next.md): Updated — all eight episodes are live.
+
+**July 25, 2026**
+- Root README: The Seven Years added
+- [for-writers.md](./for-writers.md): updated
+
+---
+
+## The Seven Years
+
+The changelog starts in 2019 — a Reddit post, a man in a bungalow, no genre, no architecture. Then it jumps to February 2026.
+
+Seven years in one line. Here's what was in them.
+
+I realized I was an alcoholic. Almost a year ago I spent three months in ICU. Then three months in treatment. In treatment everyone talked about wanting things *back*. Their old life. Their old self. The version of them that existed before the damage. I didn't want that. I couldn't want it. I didn't know who Jay was anymore. Not the before version, not the after. Just — not there. Stuck. In place.
+
+Like Met.
+
+I wrote a show about a man who built a wall around everything he couldn't process and called it competence. I wrote it while I was building the same wall. I didn't know that. The show knew before I did.
+
+If your work is waiting — if you put it down and can't tell if that's dedication or delusion or just life happening to you — that's not failure. That's the show waiting for you to be the person who can write it.
+
+It waited for me.
+
+---
+
+*Jay Wright — [wearecleardigital@gmail.com](mailto:wearecleardigital@gmail.com)*
