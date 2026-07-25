@@ -6,6 +6,10 @@ Specifically: writers who are earlier in their process than they want to be. Wri
 
 It's allowed.
 
+The thing nobody tells you is that having the character first doesn't feel like a head start. It feels like being stuck. You have this person who's completely real to you and no idea what happens to them. You keep circling. You write scenes that go nowhere. You put it down. You pick it up. You wonder if the problem is the idea or if the problem is you.
+
+It's neither. The architecture can't exist yet because you haven't written your way into understanding what you're actually making. The structure grows from the material, not the other way around.
+
 The file called `the-stupid-basis.md` exists because in 2019 I posted a goofy story to Reddit about a man in a bungalow who wasn't a god. No genre. No architecture. No thirteen rules. Just a character, before anyone including me knew what he was.
 
 That's where 8:12 Theory started.
@@ -21,10 +25,6 @@ Take whatever's useful. Leave what isn't. The thirteen rules work on any show �
 And if you have a stupid basis of your own — a thing that doesn't have a genre yet, a character without a story, a Reddit post nobody read — keep going.
 
 Seven years from now it might have thirteen rules.
-
-Everything I built to get there is in this repo. The scripts. The bible. The rules. The v1 drafts that got called unpitchable. All of it. Open.
-
-Take it.
 
 Jay Wright
 wearecleardigital@gmail.com
