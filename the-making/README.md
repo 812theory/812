@@ -20,7 +20,9 @@ Read this if you want to see the process, not just the product. The mess is the 
 
 **[Creator Bio](./creator-bio.md)** — Multiple versions for different contexts. The "why you?" answer at the bottom is the one that matters.
 
-**[The Coverage](./8%2012%20Theory%20-%20Classic%20TV%20Coverage%20-%20Script%20Reader%20Pro%20-%20Scott%20Parisien%20(3).pdf)** — The script coverage that called it unpitchable. Read it alongside the v1 pitch bible. The notes were right. It took three months and a full rewrite to understand why.
+**[Coverage v1](./coverage-v1.md)** — First coverage pass by Trevor at Scriptwrecked. Where the first real outside read landed.
+
+**[Coverage v2 (SCP)](./8%2012%20Theory%20-%20Classic%20TV%20Coverage%20-%20Script%20Reader%20Pro%20-%20Scott%20Parisien%20(3).pdf)** — The coverage that called it unpitchable. Read it alongside the v1 pitch bible. The notes were right. It took three months and a full rewrite to understand why.
 
 **[On Coverage](./on-coverage.md)** — What the coverage said and what it actually meant.
 
